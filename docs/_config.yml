@@ -21,9 +21,9 @@
 title: Innovation Design Consortium Code Development
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This site details code deveopment standards for firms in the Innovation Design Consortium.
+  This site details code development standards for firms in the Innovation Design Consortium.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://code.innovationdesignconsortium.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
