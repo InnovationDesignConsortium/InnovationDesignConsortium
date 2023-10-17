@@ -143,6 +143,7 @@ permalink: /
     <p class="alt-lead text-gray text-center col-md-10 mx-auto">Enim quis nulla nisi id ea dolore sunt. In tempor pariatur cillum proident quis eu incididunt adipisicing ea est. Amet amet culpa labore proident. Tempor est excepteur pariatur ut ea adipisicing voluptate irure dolor quis ad. Nulla ad do velit commodo aliqua eu veniam voluptate laborum. Occaecat ipsum ullamco ut consectetur et. Laboris laborum aute dolor qui elit voluptate aute exercitation pariatur sunt do.</a>.</p>
   </div>
   <div style="overflow: hidden;">
+    {% comment %}
     {% assign count = 0 %}
     {% for group in site.data.IDCs %}
       {% for org in group[1] %}
@@ -153,6 +154,8 @@ permalink: /
       {% for org in site.featured_orgs %}
       <a href="https://innovationdesignconsortium.com/{{ org }}" class="animate-in">{% avatar user=org size=80 %}</a>
       {% endfor %}
+
+      {% endcomment %}
     </div>
   </div>
 </section>
