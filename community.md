@@ -21,22 +21,22 @@ permalink: /community/
   <div class="clearfix gutter-spacious">
     <div class="col-md-6 float-left mb-4">
       <h3 class="alt-h3 mb-2">Add An Organization to the List</h3>
-      <p class="text-gray">This website is <a href="https://innovationdesignconsortium.com/github/code.innovationdesignconsortium.com">open source</a>, therefore anyone in the community can submit edits through pull requests. If your agency isn't on this list, but should be, please add it:</p>
+      <p class="text-gray">This website is <a href="https://code.innovationdesignconsortium.com/github/code.innovationdesignconsortium.com">open source</a>, therefore anyone in the community can submit edits through pull requests. If your agency isn't on this list, but should be, please add it:</p>
       <ol class="text-gray ml-3">
         <li class="mb-2">Navigate to the appropriate organization list:
           <ul class="ml-3">
             <li>
-              <a href="https://innovationdesignconsortium.com/github/code.innovationdesignconsortium.com/blob/gh-pages/_data/contributors.yml">
+              <a href="https://code.innovationdesignconsortium.com/github/code.innovationdesignconsortium.com/blob/gh-pages/_data/contributors.yml">
                 _data/contributors.yml
               </a>, for IDC organizations
             </li>
             <li>
-              <a href="https://innovationdesignconsortium.com/github/code.innovationdesignconsortium.com/blob/gh-pages/_data/civic_hackers.yml">
+              <a href="https://code.innovationdesignconsortium.com/github/code.innovationdesignconsortium.com/blob/gh-pages/_data/civic_hackers.yml">
                 _data/civic_hackers.yml
               </a>, for non-IDC, civic hacking organizations
             </li>
             <li>
-              <a href="https://innovationdesignconsortium.com/github/code.innovationdesignconsortium.com/blob/gh-pages/_data/research.yml">
+              <a href="https://code.innovationdesignconsortium.com/github/code.innovationdesignconsortium.com/blob/gh-pages/_data/research.yml">
                 _data/research.yml
               </a>, for IDC-funded research organizations
             </li>
@@ -63,7 +63,7 @@ permalink: /community/
 
       <h4 class="mb-2">Legalese</h4>
       <p class="text-gray">
-        Neither the inclusion of a logo or seal above nor the fact that a particular IDC entity may have a presence on GitHub.com should be construed to imply that GitHub's products or services are endorsed, sponsored or recommended by the IDC entity, nor that they are considered by that entity to be superior to any other products or services. If you have any questions, or if would like your agency's logo removed from the list above, please <a href="https://innovationdesignconsortium.com/github/code.innovationdesignconsortium.com/issues/new">let us know</a>.
+        Neither the inclusion of a logo or seal above nor the fact that a particular IDC entity may have a presence on GitHub.com should be construed to imply that GitHub's products or services are endorsed, sponsored or recommended by the IDC entity, nor that they are considered by that entity to be superior to any other products or services. If you have any questions, or if would like your agency's logo removed from the list above, please <a href="https://code.innovationdesignconsortium.com/github/code.innovationdesignconsortium.com/issues/new">let us know</a>.
       </p>
     </div>
 

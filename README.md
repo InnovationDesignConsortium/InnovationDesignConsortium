@@ -1,4 +1,4 @@
-# Innovation Design Consortium Code Sharing Library [![Test site build](https://innovationdesignconsortium.com/github/code.innovationdesignconsortium.com/actions/workflows/build.yml/badge.svg)](https://innovationdesignconsortium.com/github/code.innovationdesignconsortium.com/actions/workflows/build.yml)
+# Innovation Design Consortium Code Sharing Library [![Test site build](https://code.innovationdesignconsortium.com/github/code.innovationdesignconsortium.com/actions/workflows/build.yml/badge.svg)](https://code.innovationdesignconsortium.com/github/code.innovationdesignconsortium.com/actions/workflows/build.yml)
 
 ![screenshot](assets/img/screenshot.png)
 
@@ -6,7 +6,7 @@ Gather, curate, and feature stories of people using GitHub as part of their open
 
 The site is open source (here's all the code!) and is a tool _for_ and _by_ the community.
 
-Submit [issues](https://innovationdesignconsortium.com/github/code.innovationdesignconsortium.com/issues/new) and [pull requests](https://innovationdesignconsortium.com/github/code.innovationdesignconsortium.com/compare/) for stories, site ideas or copy edits.
+Submit [issues](https://code.innovationdesignconsortium.com/github/code.innovationdesignconsortium.com/issues/new) and [pull requests](https://code.innovationdesignconsortium.com/github/code.innovationdesignconsortium.com/compare/) for stories, site ideas or copy edits.
 
 ### Goals
 
@@ -17,13 +17,13 @@ Submit [issues](https://innovationdesignconsortium.com/github/code.innovationdes
 
 ### Under the Hood
 
-This site is made with [Jekyll](https://jekyllrb.com), an open source static site generator. This means the Jekyll program takes the content we want to be on the site and turns them into HTML files ready to be hosted somewhere. Awesomely, GitHub provides free web hosting for repositories, called [GitHub Pages](https://pages.github.com/), and that's how this site is hosted. The content for the site is on a branch named [gh-pages](https://innovationdesignconsortium.com/github/code.innovationdesignconsortium.com/tree/gh-pages).
+This site is made with [Jekyll](https://jekyllrb.com), an open source static site generator. This means the Jekyll program takes the content we want to be on the site and turns them into HTML files ready to be hosted somewhere. Awesomely, GitHub provides free web hosting for repositories, called [GitHub Pages](https://pages.github.com/), and that's how this site is hosted. The content for the site is on a branch named [gh-pages](https://code.innovationdesignconsortium.com/github/code.innovationdesignconsortium.com/tree/gh-pages).
 
 ## Contributing
 
 #### Fix/Edit Content
 
-If you see an error or a place where content should be updated or improved, just fork this repository to your account, make the change you'd like and then submit a pull request. If you're not able to make the change, file an [issue](https://innovationdesignconsortium.com/github/code.innovationdesignconsortium.com/issues/new).
+If you see an error or a place where content should be updated or improved, just fork this repository to your account, make the change you'd like and then submit a pull request. If you're not able to make the change, file an [issue](https://code.innovationdesignconsortium.com/github/code.innovationdesignconsortium.com/issues/new).
 
 #### Add Organization
 
@@ -47,7 +47,7 @@ _If you have installed [GitHub Desktop](https://desktop.github.com), Git was als
 To copy the repository's files from here onto your computer and to view and serve those files locally, at your computer's command line type:
 
 ```bash
-git clone https://innovationdesignconsortium.com/github/code.innovationdesignconsortium.com.git
+git clone https://code.innovationdesignconsortium.com/github/code.innovationdesignconsortium.com.git
 cd code.innovationdesignconsortium.com
 script/bootstrap
 script/server
@@ -58,7 +58,7 @@ Open `http://localhost:4000` in your browser
 
 code.innovationdesignconsortium.com now utilizes a two-repo approach to managing staging and production deployments:
 
-- **Production:** [github/code.innovationdesignconsortium.com](https://innovationdesignconsortium.com/github/code.innovationdesignconsortium.com/) (this repository)
+- **Production:** [github/code.innovationdesignconsortium.com](https://code.innovationdesignconsortium.com/github/code.innovationdesignconsortium.com/) (this repository)
 - **Staging:** [IDC/staging](https://ghe.io/contributors/staging)
 
 For small changes, you can deploy right to production by merging a pull request. For larger changes, push your branch to the staging repo from Terminal. Here's how to setup staging and deploy to it:
@@ -84,10 +84,10 @@ In addition to contributing changes, you can help to triage issues. This can inc
 
 ----
 
-Don't see what you're looking for? Create an [issue](https://innovationdesignconsortium.com/github/code.innovationdesignconsortium.com/issues/new), we'll do our best to help you out.
+Don't see what you're looking for? Create an [issue](https://code.innovationdesignconsortium.com/github/code.innovationdesignconsortium.com/issues/new), we'll do our best to help you out.
 
 ## License
 
 The data in `_data` is free to use without restriction. For clarity these files, and contributions to these files, are released under [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/).
 
-When using the GitHub logos, be sure to follow the [GitHub logo guidelines](https://innovationdesignconsortium.com/logos).
+When using the GitHub logos, be sure to follow the [GitHub logo guidelines](https://code.innovationdesignconsortium.com/logos).

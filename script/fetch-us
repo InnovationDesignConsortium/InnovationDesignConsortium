@@ -10,7 +10,7 @@ require 'yaml'
 require 'typhoeus'
 
 def org_exists?(org)
-  Typhoeus.head("https://innovationdesignconsortium.com/orgs/#{org}/people", accept_encoding: 'gzip').success?
+  Typhoeus.head("https://code.innovationdesignconsortium.com/orgs/#{org}/people", accept_encoding: 'gzip').success?
 rescue TyphoeusError
   false
 end

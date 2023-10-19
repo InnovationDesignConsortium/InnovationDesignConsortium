@@ -11,12 +11,12 @@
   },
   //"repository": {
   //  "type": "git",
-  //  "url": "git+https://innovationdesignconsortium.com/github/code.innovationdesignconsortium.com.git"
+  //  "url": "git+https://code.innovationdesignconsortium.com/github/code.innovationdesignconsortium.com.git"
   //},
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://innovationdesignconsortium.com/github/code.innovationdesignconsortium.com/issues"
+    "url": "https://code.innovationdesignconsortium.com/github/code.innovationdesignconsortium.com/issues"
   },
   "homepage": "https://code.innovationdesignconsortium.com",
   "dependencies": {

@@ -26,7 +26,7 @@ Typhoeus::Config.cache = Cache.new
 # Ideally this would be an API call, but given the volume of calls,
 # We'd constantly hit any rate limit as each needs to be its own query
 def org?(user)
-  response = Typhoeus.head "https://innovationdesignconsortium.com/orgs/#{user}/people", accept_encoding: 'gzip'
+  response = Typhoeus.head "https://code.innovationdesignconsortium.com/orgs/#{user}/people", accept_encoding: 'gzip'
   response.success? || response.response_code == 429
 end
 

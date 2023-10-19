@@ -284,7 +284,7 @@ data:
         comments: "Documentation available at [code.innovationdesignconsortium.com/accessibility](https://code.innovationdesignconsortium.com/accessibility/)"
       - criterion: "(c) Support services for products shall accommodate the communication needs of end-users with disabilities."
         support: Supports
-        comments: "Support provided via [web](https://help.github.com) and [email](https://innovationdesignconsortium.com/contactus)"
+        comments: "Support provided via [web](https://help.github.com) and [email](https://code.innovationdesignconsortium.com/contactus)"
 ---
 
 <div class="col-md-8 mx-auto">
