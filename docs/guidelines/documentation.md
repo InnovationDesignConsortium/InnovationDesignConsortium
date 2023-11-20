@@ -6,7 +6,7 @@ permalink: /guidelines/documentation/
 ---
 
 
-# **Documentation Standards** ✏️
+# **Documentation Standards** `✏️`
 
 Clear, concise, and consistent documentation is a cornerstone of collaborative projects, especially within a consortium of Architecture and Engineering firms. Proper documentation ensures that everyone, from stakeholders to developers, has a clear understanding of the project's goals, procedures, and outcomes.
 

@@ -6,7 +6,7 @@ permalink: /guidelines/review/
 ---
 
 
-# **Code Review Process** 🔍
+# **Code Review Process** `🔍`
 
 Ensuring code quality and consistent standards across our projects is crucial, especially in a consortium where multiple Architecture and Engineering firms collaborate. Our code review process is designed to facilitate collaboration, maintain high coding standards, and enable knowledge sharing.
 

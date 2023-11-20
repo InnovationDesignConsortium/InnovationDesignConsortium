@@ -6,7 +6,7 @@ permalink: /guidelines/feedback/
 ---
 
 
-# **Feedback and Suggestions** 💡
+# **Feedback and Suggestions** `💡`
 
 Open communication is key to the success and growth of our consortium. We value the insights, feedback, and suggestions from every member. Whether it's about a specific project, a tool we use, or any other aspect of our collaborative efforts, your input helps us refine and improve.
 
