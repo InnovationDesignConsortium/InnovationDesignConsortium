@@ -5,7 +5,7 @@ description: Quality is paramount. Get acquainted with our rigorous code review 
 permalink: /guidelines/collaborationtools/
 ---
 
-# **Collaboration Tools** 🛠️
+# **Collaboration Tools** `🛠️`
 
 In the IDC, effective collaboration is paramount. To ensure seamless communication and easy access to shared resources, we employ specific tools that help streamline our processes. Use these tools to help organize coding efforts with your respective group, alert to milestone releases, and find code reviewers.
 
@@ -21,7 +21,7 @@ Microsoft Teams is our primary communication tool. It's where we conduct meeting
   
 - **Files**: Upload and collaborate on files directly within Teams. It offers real-time collaboration on documents.
 
-
+<div class="mt-4">
 ## **SharePoint**
 
 SharePoint serves as our central repository for documents, templates, and other essential resources.
@@ -34,10 +34,10 @@ SharePoint serves as our central repository for documents, templates, and other 
   
 - **Collaboration**: Work on documents simultaneously with other members, seeing changes in real-time.
   
-
 ### **Getting Started**
 
 Access our [SharePoint Site](#sharepoint-link) *(replace #sharepoint-link with the actual link to your SharePoint site)*.
+</div>
 
 
 

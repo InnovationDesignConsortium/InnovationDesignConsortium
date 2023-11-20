@@ -32,6 +32,7 @@ General feedback like "I don't like X" isn't as helpful as "I think X could be i
 
 Feedback should always be given in a respectful manner. Remember, it's about improving the process, not pointing fingers.
 
+<div class="mt-4">
 ## **Feedback Channels**
 
 We offer multiple channels for you to share your insights:
@@ -42,10 +43,11 @@ We offer multiple channels for you to share your insights:
   
 - **Direct Messages**: If you prefer a one-on-one discussion, feel free to reach out to project leads or management directly.
 
+
 ### **Feedback Form**
 
 For those who prefer an anonymous avenue or structured format:
 - Access our [Feedback Form](#feedback-form-link). *(Replace #feedback-form-link with an actual link to your feedback form, perhaps a Microsoft Forms link.)*
 - Fill in the relevant sections and submit. All entries are reviewed regularly.
-
+</div>
 
