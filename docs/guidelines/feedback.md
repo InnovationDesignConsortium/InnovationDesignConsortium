@@ -1,14 +1,14 @@
 ---
-title: Project Highlights
+title: Feedback and Suggestions
 layout: support-page
-description: Our projects define us. Take a moment to explore our most influential and transformative works that have shaped the industry.
+description: Open communication is key to the success and growth of our consortium. We value the insights, feedback, and suggestions from every member.
 permalink: /guidelines/feedback/
 ---
 
 
 # **Feedback and Suggestions** `💡`
 
-Open communication is key to the success and growth of our consortium. We value the insights, feedback, and suggestions from every member. Whether it's about a specific project, a tool we use, or any other aspect of our collaborative efforts, your input helps us refine and improve.
+Whether it's about a specific project, a tool we use, or any other aspect of our collaborative efforts, your input helps us refine and improve.
 
 ## **Why Your Feedback Matters**
 
