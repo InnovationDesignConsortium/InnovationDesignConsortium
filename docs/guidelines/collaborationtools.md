@@ -21,7 +21,7 @@ Microsoft Teams is our primary communication tool. It's where we conduct meeting
   
 - **Files**: Upload and collaborate on files directly within Teams. It offers real-time collaboration on documents.
 
-<div class="mt-4">
+<div class="mt-4">&nbsp;</div>
 ## **SharePoint**
 
 SharePoint serves as our central repository for documents, templates, and other essential resources.
@@ -33,11 +33,13 @@ SharePoint serves as our central repository for documents, templates, and other 
 - **Version Control**: Every change in a document is tracked. You can always revert to previous versions if needed.
   
 - **Collaboration**: Work on documents simultaneously with other members, seeing changes in real-time.
-  
+
+<div class="mt-4"></div> 
+
 ### **Getting Started**
 
 Access our [SharePoint Site](#sharepoint-link) *(replace #sharepoint-link with the actual link to your SharePoint site)*.
-</div>
+<div class="mt-4">&nbsp;</div>
 
 
 

@@ -70,7 +70,7 @@ Once your PR is approved, it will be merged into the main codebase.
 - **Why?** Your contribution is valuable and now part of the collective effort.
 - **How?** Celebrate your success, and perhaps start on the next issue!
 
-<div class="mt-3">
+<div class="mt-3 mb-3">
 Remember, collaborative coding in the AEC industry is about integrating varied expertise into a unified codebase. Respect, patience, and clear communication are the pillars of our collaborative success.
 </div>
 
