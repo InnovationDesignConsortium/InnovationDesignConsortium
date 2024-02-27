@@ -9,6 +9,18 @@ body {
   font-size: 16px;
 }
 
+.flex-container {
+  display: flex;
+  justify-content: space-between; /* This will space the div elements evenly */
+  /*flex-wrap: wrap; /* This allows the items to wrap into the next line on smaller screens */
+}
+
+.flex-container > div > div {
+  flex: 1; /* This makes each child div grow equally, sharing the container space */
+  min-width: 550px; /* Prevents the divs from becoming too narrow on smaller screens */
+  height: 200px; /* Prevents the divs from becoming too narrow on smaller screens */
+}
+
 // HEADER
 
 .page-header {
@@ -22,6 +34,7 @@ body {
   background-repeat: no-repeat;
   background-position: center center;
 }
+
 
 .logo {
   max-width: 280px;
