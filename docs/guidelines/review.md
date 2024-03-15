@@ -43,7 +43,7 @@ A rigorous code review process:
 - **Respond Promptly**: Address review comments, and push your changes or clarify with further comments.
 - **Merge Conditions**: Ensure that a certain number of approvals are secured before merging, and all discussions are resolved.
 
-<div class="mt-4">
+<div class="mt-4"></div>
 ## **Tools We Use**
 
 Our consortium utilizes various tools to facilitate the code review process:
@@ -51,11 +51,12 @@ Our consortium utilizes various tools to facilitate the code review process:
 - **[GitHub](https://github.com/)**: For hosting our repositories, raising PRs, and conducting reviews.
 - **[Github Actions](https://github.com/features/actions)**: To run tests and deploy code automatically when PRs are raised. For example, [the page you are reading](https://github.com/InnovationDesignConsortium/InnovationDesignConsortium/actions/workflows/pages/pages-build-deployment) is deployed through a github action. Check it out for an example!
 - **[Static Code Analysis Tool]**: To automatically check code quality. *(Replace with the tool we pan to use)*
-</div>
----
-<div class="mt-4">
+
+
+<div class="mt-4"></div>
 ## **Conclusion**
 
 The code review process is a team effort. It requires patience, open-mindedness, and a commitment to learning and collaboration. Together, we'll continue to maintain high coding standards and produce outstanding projects.
-</div>
+
+
 
