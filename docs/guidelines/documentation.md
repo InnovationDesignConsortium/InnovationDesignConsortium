@@ -55,10 +55,9 @@ We provide a set of templates for various needs, from design proposals to techni
 
 ---
 
-<div class="mt-4">
-
-<h2 id="conclusion">Conclusion</h2>
+<div class="mt-4"></div>
+## **Conclusion**
 
 Remember, the main goal of our documentation standard is to foster clarity, consistency, and collaboration. When in doubt, ask yourself: "Will someone unfamiliar with this project understand this document?"
-</div>
+
 
